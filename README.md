@@ -25,5 +25,5 @@ Added features:
 
 things to improve on:
 - attempted to create projectiles firing at the ghosts for pacman to defend himself, however
-I encountered many issues with the game context and i couldn't fix it
+I encountered many issues with the game context and I couldn't fix it
 - smoother transitions
